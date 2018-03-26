@@ -7,6 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {.end}
   {squarespace-headers}
+  <!--Google Analytics-->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-72574965-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-72574965-1');
+  </script>
+  <!--Google Verification-->
   <meta name="google-site-verification" content="rtSVs_HU5dslY4zCC7qaZRRbJbJAzW-qt-BGqQA6h_I" />
   <squarespace:script src="site.js" />
 </head>
