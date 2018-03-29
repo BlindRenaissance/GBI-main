@@ -1,0 +1,363 @@
+/** FIX ANNOUNCEMENT (TEMP) **/
+#bannerImage {
+    margin-top: 92px!important;
+}
+.sqs-announcement-bar-close{
+	display:none;
+}
+
+/** MOBILE **/
+
+@media only screen and (max-width: 1000px) {
+    .logo-image .logo img {
+        margin-top: 35px;
+        width: 350px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .logo-image .logo img {
+        margin-top: -150px;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+	.cusTitle{
+	    color:#000;
+	    margin-left: 30px
+	}
+
+	/***COMPANY**/
+
+	#collection-522a111be4b057d0628e86d1 #page {
+	    background-image: url('https://static1.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583315e4b0cd2647585cb0/1398289173086/header-careers.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e86d1 .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-3d5e31378ce579ac0301 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***SERVICE***/
+
+	#collection-522a111be4b057d0628e86da #page {
+	    background-image: url('http://static.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583225e4b0fb7d1bfe9fce/1398288933711/header-services.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e86da .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-3d4f14c11c028ff4d749 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***EQUIPMENT***/
+
+	#collection-522a111be4b057d0628e86ed #page {
+	    background-image: url('http://static.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583297e4b005715e4fd667/1398289047128/header-equipment.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e86ed .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-f825e332c6b01b1fcfc6 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***EQUIPMENT RENTALS***/
+
+	#collection-528fb5c0e4b0857311c9770e #page {
+	    background-image: url('http://static.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/536ab7ffe4b043cc0874a569/1399502847624/header-equip%20rentals.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-528fb5c0e4b0857311c9770e .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-557eaedae36097871da5 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***EQUIPMENT SALES ***/
+
+	.page-description {
+	    font-family: "Helvetica Neue", "Arial", "sans-serif";
+	    font-size: 13px;
+	    line-height: 1.6em;
+	    text-transform: none;
+	    text-decoration: none;
+	    letter-spacing: 0px;
+	    font-weight: normal;
+	    font-style: normal;
+	    margin: 0 0 1.6em;
+	}
+	#collection-528132dde4b0f7fd724c5441 footer {
+	    margin-top: 60px;
+	    margin-left: 20px;
+	}
+	/***OUR WORK***/
+
+	#collection-522a111be4b057d0628e8702 #page {
+	    background-image: url('http://static.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53584db4e4b0cd2647587f20/1398295988752/header-ourwork.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e8702 .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-5a33e6c7c605802d4659 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***SAFETY***/
+
+	#collection-522a111be4b057d0628e86f9 #page {
+	    background-image: url('https://static1.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583315e4b0cd2647585cb0/1398289173086/header-careers.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e86f9 .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-ca8f34a2e2551522d8dc {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***CAREERS***/
+
+	#collection-522a111ce4b057d0628e87f0 #page {
+	    background-image: url('http://static.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583315e4b0cd2647585cb0/1398289173086/header-careers.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111ce4b057d0628e87f0 .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-522a111ce4b057d0628e87f2 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***TECHNOLOGY***/
+
+	#collection-522a111be4b057d0628e86f3 #page {
+	    background-image: url('https://static1.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583315e4b0cd2647585cb0/1398289173086/header-careers.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a111be4b057d0628e86f3 .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-59f1bd7a76055d48a271 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+	/***COMMUNITY***/
+
+	#collection-522a41dce4b09d579ceed97d #page {
+	    background-image: url('https://static1.squarespace.com/static/51560fcbe4b0e1be8843e47d/t/53583315e4b0cd2647585cb0/1398289173086/header-careers.jpg');
+	    background-repeat: repeat-x;
+	    height: auto;
+	    z-index: 1;
+	}
+	#collection-522a41dce4b09d579ceed97d .page-title h1 {
+	    color: #000000;
+	    margin-left: 30px;
+	    margin-bottom: -60px;
+	}
+	#block-a8699f7f57160bfc3f65 {
+	    margin-left: 30px;
+	    margin-top: -20px;
+	    color: #000000;
+	}
+}
+
+/*** Screens smaller than 800px ***/
+
+@media only screen and (max-width: 800px){
+	 #block-0b64091b9a32e582cea8 {
+        padding: 0px;
+        margin-left:0 auto;
+        margin-right:0 auto;
+        width:100%;
+     }
+}
+/*** Screens larger than 800px ***/
+
+@media only screen and (min-width: 800px){
+
+    #block-0b64091b9a32e582cea8 {
+        width: 940px;
+     	position: absolute;
+    	margin-left: -33px;
+    }
+}
+
+/*** All Screens ***/
+
+.page-title{
+  display:none !important;
+}
+
+#canvas {
+    margin-top: 44px;
+}
+
+#bannerImage {
+    margin-top: 85px;
+}
+
+h2 {
+    text-decoration: none;
+    border-bottom: 2px solid #a2a467;
+    padding-bottom: 0.1em;
+}
+.sqs-search-ui-button {
+    background-color: White;
+}
+#header #topNav .active-link a {
+    text-decoration: none;
+    border-bottom: 2px solid #a2a467;
+    padding-bottom: 0.1em;
+}
+#header #topNav {
+    background-color: #000000;
+    border-bottom: 2px solid #d7d7d7;
+}
+#block-64b52071bde811a98f72 p {
+    font-size: 12pt;
+    font-family: "Helvetica Neue";
+    letter-spacing: 2px;
+    font-style: normal;
+}
+.sqs-simple-like {
+    display: none;
+}
+.comments {
+    display: none;
+}
+.ss-social-button {
+    display: none;
+}
+.collection-type-blog article .entry-content {
+    background-color: #202020;
+    padding: 20px;
+}
+.collection-type-blog .post-divider {
+    background-color: #a2a467;
+}
+blockquote {
+    border: none;
+}
+#block-3485ebb62a7506c3b0bb {
+    font-size: 8pt;
+}
+#collection-522a111be4b057d0628e86d1 h2 {
+    font-size: 11pt;
+}
+#block-0b64091b9a32e582cea8 {
+    z-index: 98;
+}
+.sqs-gallery-controls .next {
+    margin-right: -11px;
+}
+.sqs-gallery-controls .previous {
+    margin-left: -10px;
+}
+.page-title h1 {
+    margin-top: 35px;
+    margin-bottom: -5px;
+    font-family: 'Bree Serif', georgia, serif;
+    line-height: 36px;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    font-family: "Helvetica Neue", "Arial", "sans-serif";
+    font-size: 2.2em;
+    line-height: 1.2em;
+    text-transform: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-style: normal;
+}
+.show-page-title .show-page-description .page-description {
+    font-size: 22px;
+    font-family: "Helvetica Neue", "Arial", "sans-serif";
+}
+#collection-522a111be4b057d0628e86c9 .page-title h1 {
+    display: none;
+}
+.article-wrapper {
+    margin-top: 55px;
+}
+.collection-type-blog article header .entry-title {
+    margin-top: 55px;
+    font-size: 22px;
+}
+#backend-nav p {
+    margin-bottom: 10px;
+    font-family: "Helvetica Neue", "Arial", "sans-serif";
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/***VIDEO***/
+
+.sqs-video-wrapper .sqs-video-overlay .sqs-video-icon {
+    color: black;
+    opacity: 0.9;
+    background-color: #A4A567;
+    padding: 5px;
+}
+.meta-title p {
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+/***LATEST NEWS***/
+
+.meta-row{display:none;}
+
+#bannerImage{
+      margin-top: 56px;
+    }
+
+/*CUSTOM FILES*/
